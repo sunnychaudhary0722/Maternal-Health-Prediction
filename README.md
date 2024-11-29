@@ -22,4 +22,4 @@ The **Maternal Health Risk Predictor** is a machine learning-based web applicati
 ### 1. Clone the Repository:
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/sunnychaudhary0722/Maternal-Health-Risk-Predictor.git
+git clone https://github.com/sunnychaudhary0722/Maternal-Health-Risk-Prediction.git
